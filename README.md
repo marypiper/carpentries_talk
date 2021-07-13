@@ -14,23 +14,34 @@ The Harvard Chan Bioinformatics Core provides consulting and training services t
 
 ## Introduction
 
-The Harvard Chan Bioinformatics Core is comprised of a team of bioinformaticians who aid researchers within the Harvard community with the management, integration and contextual analysis of biological high-throughput data.
+The Harvard Chan Bioinformatics Core (HBC) is comprised of a team of bioinformaticians who aid researchers within the Harvard community with the management, integration and contextual analysis of biological high-throughput data.
 
 <img src>
 
-Six years ago we initiated a new bioinformatics training program with the overarching goal:
+## Training Program Goals
 
+Six years ago we initiated a new bioinformatics training program at HBC.
+
+> **Goal:**
 > _Empower experimental researchers to **understand next-generation sequencing methods** and analyses and to **perform high-quality analyses** of their own data._
 
-We desired this program to exhibit the following features:
+To achieve this goal we envisioned the program to exhibit the following features:
 
 - **Accessible:** individuals with little computational background (no programming experience) should be comfortable learning from our materials
 - **Applicable:** researchers should be able to perform their own data analyses after taking analysis-specific workshops
 - **Reviewable:** researchers should be able to return to the materials and review the concepts and code
 - **Retentive:** workshops should optimize retention through assessments and review
-- **Interactivity:** workshops should be engaging by either interacting with instructors and/or each other
+- **Interactive:** workshops should be engaging by either interacting with instructors and/or each other
 
 ## Carpentries as a Foundation
 
-We found the Carpentries' materials exhibited many of these features.
+We found the Carpentries' workshops to model many of these characteristics and used them as a base in the following ways:
 
+- Organization of workshops
+- Formatting of course materials
+- Workshop content 
+
+### Workshop organization
+
+### Formatting of course materials
+### Workshop content 
