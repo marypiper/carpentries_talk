@@ -77,7 +77,17 @@ Critical to our mission and success of our program has been the design of our wo
   - allows access to previous versions of materials
   - encourages community contribution
   - accessible to everyone
+
+  <p align="center">
+  <img src="Octocat.png" width="100">
+  </p>
+
 - **Creative Commons Attribution license:** free to share and adapt given proper credit
+
+  <p align="center">
+  <img src="1920px-Cc.logo.circle.png" width="100">
+  </p>
+
 
 ### Workshop content 
 
