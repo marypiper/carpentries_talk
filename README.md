@@ -79,13 +79,13 @@ Critical to our mission and success of our program has been the design of our wo
   - accessible to everyone
 
   <p align="center">
-  <img src="Octocat.png" width="100">
+  <img src="img/Octocat.png" width="100">
   </p>
 
 - **Creative Commons Attribution license:** free to share and adapt given proper credit
 
   <p align="center">
-  <img src="1920px-Cc.logo.circle.png" width="100">
+  <img src="img/1920px-Cc.logo.circle.png" width="100">
   </p>
 
 
