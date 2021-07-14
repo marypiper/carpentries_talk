@@ -22,7 +22,7 @@ The [Harvard Chan Bioinformatics Core (HBC)](https://bioinformatics.sph.harvard.
 
 ## Training Program Goals
 
-Six years ago we initiated a new bioinformatics training program at HBC. The bottleneck in the analysis of high-throughput NGS data drove our mission to educate researchers to perform analyses of their own data.
+Six years ago we initiated a new bioinformatics training program at HBC. The bottleneck in the analysis of high-throughput NGS data drove our mission to educate researchers.
 
 > **Goal:**
 > _Empower experimental researchers to **understand next-generation sequencing methods** and analyses and to **perform high-quality analyses** of their own data._
@@ -91,6 +91,8 @@ Critical to our mission and success of our program has been the design of our wo
 
 ### Workshop content 
 
+Finally, the content of our workshop materials was also driven by the Carpentries in the following ways:
+
 - **Workshop skeletons:** Carpentry materials served as skeletons for our basic introductory workshops in R and command line.
 - **Frequent formative assessments:** 
   - practical exercises and advanced practice is incorporated into all of our workshops
@@ -99,13 +101,15 @@ Critical to our mission and success of our program has been the design of our wo
 
 ## Pivoting Instruction in the Time of Covid
 
-The design and content of our workshops allowed efficient pivoting to remote teaching during the Covid-19 pandemic. Since the markdown lessons were designed for self-learning, we efficiently transitioned to a flipped-classroom format. The majority of the content is covered during self-learning using our materials. The content is reinforced during 'in-class'/Zoom sessions. 
+The design and content of our workshops allowed **efficient pivoting to remote teaching** during the Covid-19 pandemic. Since the markdown lessons were designed for self-learning, we efficiently transitioned to a **flipped-classroom format**. The majority of the content is covered during self-learning using our markdown lessons. The content is reinforced during 'in-class'/Zoom sessions. 
 
 - **Self-learning:** the majority of all concepts and code is performed during these self-learning sessions. Exercises are incorporated throughout the material, and any conceptual questions regarding the material can be addressed in the in-class sessions.
 - **In-class sessions:** highly interactive and much shorter (2-hour sessions) than previous in-person workshops (6-hour sessions). These in-class sessions address questions, provide assessments in the form of exercises and polls, and provide instruction for complex lessons where we anticipate confusion or errors.
   - Zoom: 'In-class' sessions take place over Zoom. Green/red stickies = red/green reactions or raised hands
 
+Even after we return to teaching in-person, we have found our flipped-classroom format to be preferred for our NGS workshops, allowing for more practice and greater retention of the concepts. Satisfaction is as high or higher than in-person versions of the workshops. 
+
 ## Summary
 
-Even after we return to teaching in-person, we have found our flipped-classroom format to be preferred for our NGS workshops, allowing for more practice and greater retention of the concepts. Satisfaction is as high or higher than in-person versions of the workshops. The Carpentries have been key for the set-up and success of our program, and we were fortunate to have had the Carpentries as our base from which to build. 
+The Carpentries have been key for the set-up and success of our program, and we were fortunate to have had the Carpentries as our base from which to build. 
 
