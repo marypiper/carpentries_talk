@@ -44,7 +44,7 @@ We found the Carpentries' workshops to model many of these characteristics and u
 - Workshop content 
 
 <p align="center">
-<img src="JOCXLSLz_400x400.png" width="200">
+<img src="JOCXLSLz_400x400.png" width="50">
 </p>
 
 ### Workshop organization
