@@ -7,25 +7,31 @@ The Harvard Chan Bioinformatics Core provides consulting and training services t
 ## Outline
 
 - Introduction
-- Goals of the Training Program
+
+- Training Program Goals
+
 - Carpentries as a Foundation
+
 - Pivoting Instruction in the Time of Covid
+
 - Summary
 
 ## Introduction
 
 The Harvard Chan Bioinformatics Core (HBC) is comprised of a team of bioinformaticians who aid researchers within the Harvard community with the management, integration and contextual analysis of biological high-throughput data.
 
-<img src>
+<p align="center">
+<img src="../img/.png" width="600">
+</p>
 
 ## Training Program Goals
 
-Six years ago we initiated a new bioinformatics training program at HBC.
+Six years ago we initiated a new bioinformatics training program at HBC. The bottleneck in the analysis of high-throughput NGS data drove our mission to educate researchers to perform analyses of their own data.
 
 > **Goal:**
 > _Empower experimental researchers to **understand next-generation sequencing methods** and analyses and to **perform high-quality analyses** of their own data._
 
-To achieve this goal we envisioned the program to exhibit the following features:
+To achieve this goal we envisioned the program would exhibit the following features:
 
 - **Accessible:** individuals with little computational background (no programming experience) should be comfortable learning from our materials
 - **Applicable:** researchers should be able to perform their own data analyses after taking analysis-specific workshops
@@ -35,13 +41,46 @@ To achieve this goal we envisioned the program to exhibit the following features
 
 ## Carpentries as a Foundation
 
-We found the Carpentries' workshops to model many of these characteristics and used them as a base in the following ways:
+We found the Carpentries' workshops to model many of these characteristics and used them as a base on which to build our program in the following ways:
 
 - Organization of workshops
-- Formatting of course materials
+- Formatting of workshop materials
 - Workshop content 
 
 ### Workshop organization
 
+All members of our training team became Carpentry-certified instructors, and we employed many of the same principles for the organization of our workshops, with the most important being:
+
+- **Friendly environment:** to promote questions and interaction. No stupid questions or use of demotivating language
+- **Assessments and feedback:** to encourage interaction and ensure no one is left behind by using red and green stickies
+- **Domain-specific workshops:** to allow immediate application to researchers' NGS data
+- **Post-workshop surveys:** to assess workshop satisfaction and areas for improvement
+
 ### Formatting of course materials
+
+Critical to our mission and success of our program has been the design of our workshop material, which is based on Carpentry design. The following design elements have been vital:
+
+- **Markdown format:** 
+  - simplifies teaching workshops with live-coding elements by incorporating text, code, and images into lessons
+  - easily renders into aesthetically pleasing webpages
+  - adapts to self-study - participants can follow along and easily catch up if they fall behind
+  - improves retention by providing all concepts and code in lessons for future review or study
+  - [example lesson](https://hbctraining.github.io/scRNA-seq_online/lessons/04_SC_quality_control.html)
+- **Hosted on Github:** 
+  - facilitates collaboration between trainers
+  - allows access to previous versions of materials
+  - encourages community contribution
+  - accessible to everyone
+- **Creative Commons Attribution license:** free to share and adapt given proper credit
+
 ### Workshop content 
+
+- **Workshop skeletons:** Carpentry materials served as skeletons for our basic introductory workshops in R and command line.
+- **Frequent formative assessments:** 
+  - practical exercises and advanced practice is incorporated into all of our workshops
+  - polls are included to gauge understanding of the concepts and code
+- **Promotion of best practices:** highlighting efficient code, key concepts, and reproducible research
+
+## Pivoting Instruction in the Time of Covid
+
+
