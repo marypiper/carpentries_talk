@@ -17,7 +17,7 @@
 The Harvard Chan Bioinformatics Core (HBC) is comprised of a team of bioinformaticians who aid researchers within the Harvard community with the management, integration and contextual analysis of biological high-throughput data.
 
 <p align="center">
-<img src="../img/.png" width="600">
+<img src="../img/hbc.png" width="600">
 </p>
 
 ## Training Program Goals
