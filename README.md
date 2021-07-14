@@ -14,7 +14,7 @@
 
 ## Introduction
 
-The [Harvard Chan Bioinformatics Core (HBC)](https://bioinformatics.sph.harvard.edu) is comprised of a team of bioinformaticians who aid researchers within the Harvard community with the management, integration and contextual analysis of biological high-throughput data.
+The [Harvard Chan Bioinformatics Core (HBC)](https://bioinformatics.sph.harvard.edu) is comprised of a team of bioinformaticians who aid researchers within the Harvard community with the management and analysis of next-generation sequencing (NGS) data.
 
 <p align="center">
 <img src="img/hbc.png" width="800">
