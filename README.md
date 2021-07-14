@@ -14,10 +14,10 @@
 
 ## Introduction
 
-The Harvard Chan Bioinformatics Core (HBC) is comprised of a team of bioinformaticians who aid researchers within the Harvard community with the management, integration and contextual analysis of biological high-throughput data.
+The [Harvard Chan Bioinformatics Core (HBC)](https://bioinformatics.sph.harvard.edu) is comprised of a team of bioinformaticians who aid researchers within the Harvard community with the management, integration and contextual analysis of biological high-throughput data.
 
 <p align="center">
-<img src="img/hbc.png" width="800">
+<img src="img/hbc.png" width="600">
 </p>
 
 ## Training Program Goals
@@ -42,6 +42,10 @@ We found the Carpentries' workshops to model many of these characteristics and u
 - Organization of workshops
 - Formatting of workshop materials
 - Workshop content 
+
+<p align="center">
+<img src="Screen Shot 2021-07-12 at 3.24.56 PM.png" width="600">
+</p>
 
 ### Workshop organization
 
