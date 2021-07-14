@@ -97,7 +97,7 @@ Finally, the content of our workshop materials was also driven by the Carpentrie
 - **Frequent formative assessments:** 
   - practical exercises and advanced practice is incorporated into all of our workshops
   - polls are included to gauge understanding of the concepts and code
-- **Promotion of best practices:** highlighting efficient code, key concepts, and reproducible research
+- **Promotion of best practices:** highlighting efficient code, recommended analytical workflows, and reproducible research
 
 ## Pivoting Instruction in the Time of Covid
 
