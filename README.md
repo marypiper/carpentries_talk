@@ -1,9 +1,5 @@
 # Optimizing Next-Generation Sequencing-based Training Using the Carpentries
 
-## Abstract
-
-The Harvard Chan Bioinformatics Core provides consulting and training services to the Harvard community. Six years ago, we initiated a new training program designed to empower researchers not only to understand next-generation sequencing, but also to perform analysis of their own data. Many of the elements used to build the foundation of this program were drawn from organizational ideas, material formatting and content of the Carpentries. We will explore how the Carpentries have aided us in achieving our goal of making NGS analysis accessible to experimental researchers. From the organizational perspective, we have utilized strategies based on Carpentry workshops such as using red and green stickies to denote whether or not there are problems during the workshop and post-workshop surveys to assess workshop satisfaction and areas for improvement. Also, critical to our mission and success of our program has been the design of our workshop material, which is based on Carpentry design. We have strived to teach solely from markdown lessons so that participants can follow along and easily catch up if they fall behind; however, this design has also allowed for participants to return to the material in the future for additional review. Fortuitously, the markdown design of lessons allowed us to easily pivot to a flipped-classroom workshop format during the Covid-19 pandemic, which allowed us the flexibility to have participants do much of the self-learning on their own, while we addressed questions and ran through exercises during shorter ‘in-class’ Zoom sessions. Finally, much of the content for our early workshops for R and the command line used the Carpentry material as a base to build from. Many of the main pedagogical methods from these lessons continue to be incorporated in our workshops, including the insertion of exercises throughout our lessons and the focus of interactivity. The Carpentries have been key for the set-up and success of our program, and we were fortunate to have had the Carpentries as our base from which to build.
-
 ## Outline
 
 - Introduction
@@ -83,4 +79,13 @@ Critical to our mission and success of our program has been the design of our wo
 
 ## Pivoting Instruction in the Time of Covid
 
+The design and content of our workshops allowed efficient pivoting to remote teaching during the Covid-19 pandemic. Since the markdown lessons were designed for self-learning, we efficiently transitioned to a flipped-classroom format. The majority of the content is covered during self-learning using our materials. The content is reinforced during 'in-class'/Zoom sessions. 
+
+- **Self-learning:** the majority of all concepts and code is performed during these self-learning sessions. Exercises are incorporated throughout the material, and any conceptual questions regarding the material can be addressed in the in-class sessions.
+- **In-class sessions:** highly interactive and much shorter (2-hour sessions) than previous in-person workshops (6-hour sessions). These in-class sessions address questions, provide assessments in the form of exercises and polls, and provide instruction for complex lessons where we anticipate confusion or errors.
+  - Zoom: 'In-class' sessions take place over Zoom. Green/red stickies = red/green reactions or raised hands
+
+## Summary
+
+Even after we return to teaching in-person, we have found our flipped-classroom format to be preferred for our NGS workshops, allowing for more practice and greater retention of the concepts. Satisfaction is as high or higher than in-person versions of the workshops. The Carpentries have been key for the set-up and success of our program, and we were fortunate to have had the Carpentries as our base from which to build. 
 
