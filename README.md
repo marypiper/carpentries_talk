@@ -44,7 +44,7 @@ We found the Carpentries' workshops to model many of these characteristics and u
 - Workshop content 
 
 <p align="center">
-<img src="Screen Shot 2021-07-12 at 3.24.56 PM.png" width="600">
+<img src="JOCXLSLz_400x400.png" width="600">
 </p>
 
 ### Workshop organization
@@ -66,6 +66,9 @@ Critical to our mission and success of our program has been the design of our wo
   - adapts to self-study - participants can follow along and easily catch up if they fall behind
   - improves retention by providing all concepts and code in lessons for future review or study
   - [example lesson](https://hbctraining.github.io/scRNA-seq_online/lessons/04_SC_quality_control.html)
+
+  
+  
 - **Hosted on Github:** 
   - facilitates collaboration between trainers
   - allows access to previous versions of materials
