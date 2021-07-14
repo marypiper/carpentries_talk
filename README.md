@@ -17,7 +17,7 @@
 The [Harvard Chan Bioinformatics Core (HBC)](https://bioinformatics.sph.harvard.edu) is comprised of a team of bioinformaticians who aid researchers within the Harvard community with the management, integration and contextual analysis of biological high-throughput data.
 
 <p align="center">
-<img src="img/hbc.png" width="600">
+<img src="img/hbc.png" width="800">
 </p>
 
 ## Training Program Goals
@@ -44,7 +44,7 @@ We found the Carpentries' workshops to model many of these characteristics and u
 - Workshop content 
 
 <p align="center">
-<img src="JOCXLSLz_400x400.png" width="600">
+<img src="JOCXLSLz_400x400.png" width="200">
 </p>
 
 ### Workshop organization
@@ -68,7 +68,7 @@ Critical to our mission and success of our program has been the design of our wo
   - [example lesson](https://hbctraining.github.io/scRNA-seq_online/lessons/04_SC_quality_control.html)
 
   <p align="center">
-  <img src="Screen Shot 2021-07-13 at 9.10.37 PM.png" width="600">
+  <img src="img/Screen Shot 2021-07-13 at 9.10.37 PM.png" width="600">
   </p>
 
   
