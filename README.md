@@ -68,7 +68,7 @@ Critical to our mission and success of our program has been the design of our wo
   - [example lesson](https://hbctraining.github.io/scRNA-seq_online/lessons/04_SC_quality_control.html)
 
   <p align="center">
-  <img src="img/Screen Shot 2021-07-13 at 9.10.37 PM.png" width="600">
+  <img src="img/Screen Shot 2021-07-13 at 9.10.37 PM.png" width="300">
   </p>
 
   
