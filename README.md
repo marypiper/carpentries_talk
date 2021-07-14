@@ -1,6 +1,6 @@
 # Optimizing Next-Generation Sequencing-based Training Using the Carpentries
 
-## Outline
+## Carpentries Symposium Lightning Talk Outline
 
 - Introduction
 
